@@ -1,8 +1,10 @@
-# 🎫 EasyTicket
+# 🎫 EzyTicket
 
 A multi-service ticket booking solution for Travel, Events, and Entertainment – built during the **Programming Hero Endgame Shadow Internship** in collaboration with a 6-member GitHub team: **API AVENGERS**.
+Live Link: https://ezyticket-7198b.web.app/
 
 ---
+![image](https://github.com/user-attachments/assets/d1346712-23c4-4d15-af5c-d28d89ae70d4)
 
 ## 📌 Project Overview
 
@@ -15,6 +17,8 @@ A multi-service ticket booking solution for Travel, Events, and Entertainment �
 **EasyTicket** is a modern full-stack web application that unifies bus, event, and movie ticket booking into a single platform. It features a user-friendly UI, real-time admin dashboards, and secure booking confirmations — delivering a seamless and centralized ticket booking experience.
 
 ---
+![image](https://github.com/user-attachments/assets/1063e251-c962-44b0-83d7-d831cca787a1)
+
 
 ## 🎯 Project Goals
 
@@ -25,6 +29,8 @@ A multi-service ticket booking solution for Travel, Events, and Entertainment �
 - Fun and engaging experience with a modern UI/UX
 
 ---
+![image](https://github.com/user-attachments/assets/57f6db5e-6a5e-4050-a585-3667b023cfb3)
+
 
 ## 🧩 Key Features
 
@@ -56,9 +62,15 @@ A multi-service ticket booking solution for Travel, Events, and Entertainment �
 - Forgot password recovery  
 
 ---
+![image](https://github.com/user-attachments/assets/b47f759a-46be-4883-99df-412274ee536d)
 
 ## 👥 User Roles
-
+-user: user@gmail.com
+-travelManager: travelmanager@gmail.com
+-eventManager: eventmanager@gmail.com
+-entertainmentManager: entertainmentmanager@gmail.com
+-admin: admin@gmail.com
+-Password for all: Ezy@123456
 ### 1. General Users
 - Browse and book travel, event, and movie tickets  
 - OTP-based booking flow with secure email confirmation  
